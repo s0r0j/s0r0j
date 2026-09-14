@@ -28,7 +28,7 @@ Currently spending time on **LLM application architecture, retrieval systems, an
 
 ![](https://github-readme-stats.vercel.app/api?username=s0r0j&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=s0r0j&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com/?user=s0r0j&theme=tokyonight&hide_border=true&cache_bust=1)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=s0r0j&theme=tokyonight&hide_border=true&layout=compact)
 
